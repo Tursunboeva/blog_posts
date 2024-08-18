@@ -1,0 +1,41 @@
+.text_cards{
+    margin-top: 18px;
+}
+.text_cards span{
+    font-size: 14px;
+    font-weight: 600;
+    color: #424242;
+   
+}
+.text_cards h4{
+    font-size: 24px;
+    color: #D05270;
+    margin-top: 14px;
+    font-weight: 600px;
+}
+.text_cards p{
+    max-width: 590px;
+    margin-top: 12px;
+    line-height: 30px;
+    margin-bottom: 50px;
+    
+}
+.text_cards a{
+    
+    color: #D05270;
+    font-size: 18px;
+    border-bottom: 1px solid #D05270;
+}
+.cards_wrapper{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 70px 20px ;
+}
+.card{
+    max-width: 590px;
+   
+}
+.logo{
+
+    margin: 0 auto;
+}

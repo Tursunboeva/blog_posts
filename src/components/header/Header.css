@@ -1,0 +1,47 @@
+.header_wrapper{
+    margin-top: 88px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 150px;
+}
+.title_header h2{
+    font-size: 52px;
+    color: #D05270;
+    font-weight: 700;
+}
+.title_header h3{
+    font-size: 52px;
+    color: #424242;
+    font-weight: 500;
+    margin-top: 12px;
+}
+.title_header p{
+    font-size: 18px;
+    color: #424242;
+    font-weight: 400;
+    max-width: 630px;
+    line-height: 26px;
+    margin-top: 36px;
+    margin-bottom: 36px;
+}
+.btn_header{
+    display: flex;
+    align-items: center;
+    gap:  18px;
+   
+}
+button{
+    padding: 23px 41px;
+  
+}
+.btn1{
+    background-color: #47ACDF;
+}
+.btn2{
+    padding: 14px 32px;
+    background-color: #1275B1;
+}
+.btn3{
+    background-color: #000000;
+}
+

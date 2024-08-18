@@ -1,0 +1,21 @@
+.links{
+    display: flex;
+    gap: 52px;
+    font-size: 18px;
+    font-weight: 700;
+    color: #424242;
+    text-align: center;
+    margin-bottom: 150px;
+    
+    
+}
+.links a{
+    color: #D05270;
+    border-bottom: 1px solid #D05270 ;
+    font-size: 34px;
+    margin-top: 150px;
+   
+}
+b{
+    margin-top: 150px;
+}
